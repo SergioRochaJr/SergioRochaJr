@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Technologist student in Software Development
+- 🎓 Technologist student in Internet Systems Development
 - 💼 Backend Developer (C#, Java, Kotlin)
 - 💡 Interested in clean architecture, DDD and scalable systems
 - 🌐 Learning to be fullstack (React, Node.js)
