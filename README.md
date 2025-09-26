@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sérgio da Rocha — glad to see you here! 👋</h1>
 
 <p align="center">
-  <i>Back-end developer focused on building scalable and well-structured applications.</i>
+  <i>Fullstack developer focused on building scalable and well-structured applications.</i>
 </p>
 
 ---
